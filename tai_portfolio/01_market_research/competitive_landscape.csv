@@ -1,0 +1,6 @@
+Company,Automation_Type,Target_Market,Avg_System_Price_USD_K,AI_ML_Integrated,Operates_Alongside_Humans
+Electroimpact,Drilling/Fastening,Aerospace,850,False,False
+Kuka Aerospace,Assembly,Aerospace,1200,False,False
+Dürr AG,Surface Finishing,Auto/Aero,600,True,False
+Temple Allen (EMMA),Sanding/Prep,Aero/Marine/Wind,350,True,True
+Genesis Systems,Welding,General Mfg,280,False,False
